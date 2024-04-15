@@ -17,7 +17,8 @@ Una aplicación en Python que utiliza una base de datos relacional para gestiona
 
 El proyecto es una aplicación de gestión de jugadores desarrollada en Python que utiliza una base de datos relacional para almacenar información sobre los jugadores. La aplicación proporciona funcionalidades para registrar, modificar, eliminar y consultar datos de los jugadores, lo que permite a los administradores del juego mantener un seguimiento detallado de la actividad de los jugadores.
 
-###Características Principales📝
+### Características Principales📝
+
 **Registro de Jugadores**: Permite agregar nuevos jugadores a la base de datos proporcionando información básica como nombre, edad, género, país, etc.
 
 **Modificación de Datos**: Los administradores pueden actualizar la información de los jugadores, como cambiar el nombre, la edad, o el país.
@@ -26,14 +27,16 @@ El proyecto es una aplicación de gestión de jugadores desarrollada en Python q
 
 **Consulta de Datos**: Ofrece la capacidad de realizar consultas sobre los jugadores, como buscar jugadores por nombre, filtrar jugadores por país o edad, etc.
 
-###Tecnologías Utilizadas🛠️
+### Tecnologías Utilizadas🛠️
+
 **Python**: El lenguaje de programación principal utilizado para desarrollar la aplicación debido a su simplicidad y flexibilidad.
 
 **Base de Datos Relacional**: Se emplea una base de datos relacional como MySQL, PostgreSQL o SQLite para almacenar y gestionar los datos de los jugadores de manera eficiente y estructurada.
 
 **SQLAlchemy**: Una biblioteca de Python que facilita la interacción con la base de datos relacional, proporcionando un mapeo objeto-relacional (ORM) y simplificando las operaciones de base de datos.
 
-###Objetivo del Proyecto🎯
+### Objetivo del Proyecto🎯
+
 El objetivo principal del proyecto es ofrecer una herramienta eficiente y fácil de usar para gestionar la información de los jugadores de manera centralizada. Esto facilita a los administradores del juego mantener un registro actualizado de los jugadores y proporciona una base sólida para la toma de decisiones relacionadas con la comunidad de jugadores.
 
 
