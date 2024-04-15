@@ -68,9 +68,10 @@ Para utilizar este programa, sigue estos pasos:
    cd nombre_del_repositorio
 
 luego ejecuta el siguiente comando:
+
     ```bash
        python main.py
-
+      
 ## Contribucion🤝 
 
 Si deseas contribuir a este proyecto, ¡estamos abiertos a sugerencias y mejoras! Simplemente sigue estos pasos:
