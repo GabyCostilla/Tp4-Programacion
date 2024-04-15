@@ -69,7 +69,6 @@ Para utilizar este programa, sigue estos pasos:
 
 luego ejecuta el siguiente comando:
 
-    ```bash
        python main.py
       
 ## Contribucion🤝 
